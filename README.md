@@ -13,7 +13,7 @@ I’m passionate about:
 - **Local-first Applied AI**
 - **Clear, comprehensive documentation**
 
-My engineering philosophy? Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
+My systems philosophy? Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
 
 ---
 
@@ -42,11 +42,11 @@ Each file serves as a milestone in skills development, professional growth, and 
 
 ---
 
-## 🛠️ My Strengths
+## 🛠️ My current environment
 
 | Category | Tech & Tools |
 |----------|--------------|
-| Systems | Linux (Mint, Debian), Networking |
+| Systems | Linux (Debian), Networking |
 | Containers | Docker, Kubernetes |
 | Orchestration | n8n |
 | Automation | Shell scripting |
@@ -59,7 +59,6 @@ Each file serves as a milestone in skills development, professional growth, and 
 ## 🎯 Professional Focus
 
 I build:
-- Declarative setups that *don’t break on updates*
 - Automation where it *actually saves time*
 - AI tooling that runs *locally and privately*
 - Documentation that *feels like part of the system*
@@ -71,5 +70,4 @@ Short and to the point — because clarity matters.
 ## 🤝 Let’s Connect
 
 If any of this resonates, or you want to collaborate, chat, or share ideas — reach out on GitHub or elsewhere!
-
 Keep building clean systems that last.
