@@ -15,7 +15,7 @@ I’m passionate about:
 - **Building secure and intelligent solutions**
 - **Provide clear, comprehensive documentation**
 - **Educating others or finding solutions for them**
-- **Data Management, Analytics, Modeling, queries**
+- **Data Management, analytics, modeling, queries**
 
 My systems philosophy? 
 Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
@@ -44,20 +44,6 @@ Feel free to explore and download anything that’s useful.
 - **Excel Manual — created to train others**
 
 Each file serves as a milestone in skills development, professional growth, and hands-on experience.
-
----
-
-## 🛠️ My current environment
-
-| Category | Tech & Tools |
-|----------|--------------|
-| Systems | Linux (Debian),  |
-| Containers | Docker, Kubernetes |
-| Orchestration | n8n |
-| Automation | Shell scripting |
-| AI | Local LLMs, RAG workflows |
-| Databases | MySQL, SQLite |
-| Monitoring | Custom dashboards, Conky |
 
 ---
 
