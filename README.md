@@ -8,10 +8,14 @@ Here you’ll find a curated snapshot of who I am as an systems thinker, and mak
 ## 🧠 About Me
 
 I’m passionate about:
+- **Command line / Scripting**
+- **Network solutions that flow with business needs**
 - **Providing an excellent technology experience**
 - **Workflow Automation & Orchestration with localized AI**
 - **Building secure and intelligent solutions**
 - **Provide clear, comprehensive documentation**
+- **Educating others or finding solutions for them**
+- **Data Management, Analytics, Modeling, queries**
 
 My systems philosophy? 
 Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
@@ -47,7 +51,7 @@ Each file serves as a milestone in skills development, professional growth, and 
 
 | Category | Tech & Tools |
 |----------|--------------|
-| Systems | Linux (Debian), Networking |
+| Systems | Linux (Debian),  |
 | Containers | Docker, Kubernetes |
 | Orchestration | n8n |
 | Automation | Shell scripting |
@@ -60,11 +64,10 @@ Each file serves as a milestone in skills development, professional growth, and 
 ## 🎯 Professional Focus
 
 I build:
-- Automation where it *actually saves time*
-- AI tooling that runs *locally and privately*
-- Documentation that *feels like part of the system*
-
-Short and to the point — because clarity matters.
+- Deployed services on appliances, servers and other hardware.
+- Agentic and scripted automation and tooling that runs *locally and privately*
+- Securely minded policy and procedures that keep employee workflows unobstructed.
+- Documentation that is part of the system and process; simplified.
 
 ---
 
