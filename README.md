@@ -40,6 +40,7 @@ Feel free to explore and download anything that’s useful.
 ### 📄 Documents Included
 - **Professional Resume (Online-Friendly)** — polished and optimized for digital viewing
 - **Microsoft Certified: Azure Fundamentals**
+- **Microsoft Certified: D365FO Fundamentals**
 - **Skills Closer Look Handout**
 - **Excel Manual — created to train others**
 
