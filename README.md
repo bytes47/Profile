@@ -8,7 +8,7 @@ Here you’ll find a curated snapshot of who I am as an systems thinker, and mak
 ## 🧠 About Me
 
 I’m passionate about:
-- **Command line / Scripting**
+- **Command line / scripting**
 - **Network solutions that flow with business needs**
 - **Providing an excellent technology experience**
 - **Workflow Automation & Orchestration with localized AI**
