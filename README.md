@@ -1,7 +1,7 @@
 # Hey 👋 I'm Jason McGinn
 
-Welcome to my GitHub Profile!  
-Here you’ll find a curated snapshot of who I am as an systems thinker, and maker of reliable, reproducible tooling.
+Welcome to my GitHub profile.
+This repository provides a curated overview of my work and experience as a systems orchestrator. Please reach out if you have any questions.
 
 ---
 
