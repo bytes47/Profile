@@ -9,7 +9,7 @@ Here you’ll find a curated snapshot of who I am as an systems thinker, and mak
 
 I’m passionate about:
 - **Command line / scripting**
-- **Network solutions that flow with business needs**
+- **Network solutions (Hybrid & Cloud) that flow with business needs**
 - **Providing an excellent technology experience**
 - **Workflow Automation & Orchestration with localized AI**
 - **Building secure and intelligent solutions**
