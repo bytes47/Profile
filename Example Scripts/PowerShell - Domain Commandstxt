@@ -1,0 +1,23 @@
+
+Import-Module ActiveDirectory
+get-command -module ActiveDirectory 
+
+'To get a list of all domains in the Active Directory forest: 
+Get-ADForest | Select-Object -ExpandProperty Domains
+Get-ADForest | Select-Object -ExpandProperty Sites | Sort-Object
+
+'get a domain mode for all domains in the forest 
+$DomainList = (Get-ADForest).Domains
+foreach ($Domain in $DomainList) {Get-ADDomain -Identity $Domain | Select-Object DNSRoot,DomainMode}
+
+'DCs with name and ip
+(Get-ADForest).Domains | %{ Get-ADDomainController -Filter * -Server $_ } | Select-Object HostName, IPv4Address | Sort-Object Hostname
+(Get-ADForest).Domains | %{ Get-ADDomainController -Filter * -Server $_ } | Select-Object Hostname,OperatingSystem | Sort-Object OperatingSystem,Hostname | Format-Table Hostname -GroupBy OperatingSystem
+
+
+'General Knowledge
+Get-ADDomainController -Discover
+Get-ADObject -identity server
+
+'Filters Required
+Get-ADAccountAuthorizationGroup
