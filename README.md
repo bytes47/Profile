@@ -1,7 +1,7 @@
 # Hey 👋 I'm Jason McGinn
 
 Welcome to my GitHub Profile!  
-Here you’ll find a curated snapshot of who I am as an engineer, systems thinker, and maker of reliable, reproducible tooling.
+Here you’ll find a curated snapshot of who I am as an systems thinker, and maker of reliable, reproducible tooling.
 
 ---
 
