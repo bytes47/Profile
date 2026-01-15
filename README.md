@@ -8,12 +8,13 @@ Here you’ll find a curated snapshot of who I am as an systems thinker, and mak
 ## 🧠 About Me
 
 I’m passionate about:
-- **Infrastructure & Systems Engineering**
-- **Workflow Automation & Orchestration**
-- **Local-first Applied AI**
-- **Clear, comprehensive documentation**
+- **Providing an excellent technology experience**
+- **Workflow Automation & Orchestration with localized AI**
+- **Building secure and intelligent solutions**
+- **Provide clear, comprehensive documentation**
 
-My systems philosophy? Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
+My systems philosophy? 
+Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
 
 ---
 
