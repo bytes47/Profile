@@ -47,7 +47,7 @@ Each file serves as a milestone in skills development, professional growth, and 
 
 ---
 
-## 🎯 Professional Focus
+## Professional Focus
 
 I build:
 - Deployed services on appliances, servers and other hardware.
