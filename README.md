@@ -1,63 +1,52 @@
-# Hey 👋 I'm Jason McGinn
+# Hi, I’m Jason McGinn 👋
 
-Welcome to my GitHub profile.
-This repository provides a curated overview of my work and experience as a systems orchestrator. Please reach out if you have any questions.
+Welcome to my GitHub! This is a curated view of work, projects, and professional journey. Browse around to see skills and tools developed over the years — from automation scripts to training materials and career milestones.
 
----
-
-## 🧠 About Me
-
-I’m passionate about:
-- **Command line / scripting**
-- **Network solutions (Hybrid & Cloud) that flow with business needs**
-- **Providing an excellent technology experience**
-- **Workflow Automation & Orchestration with localized AI**
-- **Building secure and intelligent solutions**
-- **Provide clear, comprehensive documentation**
-- **Educating others or finding solutions for them**
-- **Data Management, analytics, modeling, queries**
-
-My systems philosophy? 
-Build systems that are *robust*, *maintainable*, and *understandable* — even at 2 AM.
+Build solutions that **simplify complex workflows, improve efficiency, and empower teams** to work smarter, not harder.
 
 ---
 
-## 💼 What You’ll Find Here
+## About Me
 
-This repository is the **home base for my professional profile**. Inside you’ll discover:
+Passionate about creating systems and solutions that are **reliable, secure, and easy to understand**. Focus areas include:
 
-📄 **My up-to-date resume**  
-📜 Past certifications and professional handouts  
-📊 Training and teaching materials I’ve created  
-📎 Career assets that reflect where I’ve been and where I’m going
+- **Command-line & scripting** – building efficient automation from the ground up  
+- **Workflow automation & orchestration**, including local AI solutions  
+- **Network solutions (Hybrid & Cloud)** that support business needs  
+- **Data management, analytics, and practical reporting**  
+- **Documentation that guides and empowers others**  
+- **Creating secure, maintainable, and understandable systems**  
 
-Feel free to explore and download anything that’s useful.
+Systems philosophy: build solutions that are **robust**, **maintainable**, and **clear enough for anyone to understand**, even at 2 AM.
 
 ---
 
-## 📎 Highlights
+## What You’ll Find Here
 
-### 📄 Documents Included
-- **Professional Resume (Online-Friendly)** — polished and optimized for digital viewing
-- **Certifications**
-- **Example Scripts**
-- **Excel Manual — created to train others**
+This repository is the **central hub for professional materials, example work, and career assets**. Key items include:
 
-Each file serves as a milestone in skills development, professional growth, and hands-on experience.
+- **Resume** – current professional resume detailing experience, education, and core competencies.  
+- **Example Scripts** – scripts demonstrating automation, workflow, and system management solutions.  
+- **Technology Consulting** – guides, templates, and training materials reflecting consulting work and practical implementations.  
+- **The Excel Manual** – comprehensive training manual created to teach practical Excel skills.  
 
 ---
 
 ## Professional Focus
 
-I build:
-- Deployed services on appliances, servers and other hardware.
-- Agentic and scripted automation and tooling that runs *locally and privately*
-- Securely minded policy and procedures that keep employee workflows unobstructed.
-- Documentation that is part of the system and process; simplified.
+Work centers on building systems and solutions that are **efficient, secure, and maintainable**:
+
+- **Deployment & Infrastructure** – services deployed on appliances, servers, and cloud platforms.  
+- **Automation & Tooling** – agentic and scripted solutions running locally and privately.  
+- **Security & Workflow** – policies and procedures designed to protect data while keeping workflows unobstructed.  
+- **Documentation & Training** – materials integrated into systems and processes, simplifying adoption and knowledge transfer.  
 
 ---
 
-## 🤝 Let’s Connect
+## Connect
 
-If any of this resonates, or you want to collaborate, chat, or share ideas — reach out on GitHub or elsewhere!
-Keep building clean, scalable systems!
+Explore these materials, review projects, or reach out via email:
+
+- **Email:** [Add email here]  
+
+Engagement is welcomed — looking forward to connecting and sharing insights.
