@@ -45,8 +45,5 @@ Work centers on building systems and solutions that are **efficient, secure, and
 
 ## Connect
 
-Explore these materials, review projects, or reach out via email:
-
-- **Email:** [Add email here]  
-
+Explore these materials, review projects
 Engagement is welcomed — looking forward to connecting and sharing insights.
