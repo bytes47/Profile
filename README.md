@@ -1,49 +1,45 @@
-# Hi, I’m Jason McGinn 👋
+# Jason McGinn 👋
 
-Welcome to my GitHub! This is a curated view of work, projects, and professional journey. Browse around to see skills and tools developed over the years — from automation scripts to training materials and career milestones.
+# Designing Practical, Maintainable Technical Systems
 
-Build solutions that **simplify complex workflows, improve efficiency, and empower teams** to work smarter, not harder.
-
----
-
-## About Me
-
-Passionate about creating systems and solutions that are **reliable, secure, and easy to understand**. Focus areas include:
-
-- **Command-line & scripting** – building efficient automation from the ground up  
-- **Workflow automation & orchestration**, including local AI solutions  
-- **Network solutions (Hybrid & Cloud)** that support business needs  
-- **Data management, analytics, and practical reporting**  
-- **Documentation that guides and empowers others**  
-- **Creating secure, maintainable, and understandable systems**  
-
-Systems philosophy: build solutions that are **robust**, **maintainable**, and **clear enough for anyone to understand**, even at 2 AM.
+This repository is a professional hub representing my understanding of technology and my approach to system design. The materials here demonstrate how I structure, document, and manage technical tools to create reliable, user-focused systems in real-world environments.
+****
 
 ---
-
-## What You’ll Find Here
-
-This repository is the **central hub for professional materials, example work, and career assets**. Key items include:
-
-- **Resume** – current professional resume detailing experience, education, and core competencies.  
-- **Example Scripts** – scripts demonstrating automation, workflow, and system management solutions.  
-- **Technology Consulting** – guides, templates, and training materials reflecting consulting work and practical implementations.  
-- **The Excel Manual** – comprehensive training manual created to teach practical Excel skills.  
-
----
-
-## Professional Focus
-
-Work centers on building systems and solutions that are **efficient, secure, and maintainable**:
-
-- **Deployment & Infrastructure** – services deployed on appliances, servers, and cloud platforms.  
-- **Automation & Tooling** – agentic and scripted solutions running locally and privately.  
-- **Security & Workflow** – policies and procedures designed to protect data while keeping workflows unobstructed.  
-- **Documentation & Training** – materials integrated into systems and processes, simplifying adoption and knowledge transfer.  
+## 📂 Repository Overview
+### Resume & Profile
+- **Resume.md** – professional profile outlining experience, skills, certifications, and focus areas
+### Technology Consulting & Training
+- Guides, templates, and documentation reflecting **real-world implementation strategies**
+- Hands-on labs, exercises, and learning materials built from practical field experience
+### Scripts
+- Automation scripts, monitoring utilities, operational tooling, and workflow examples
 
 ---
+## 🧭 Professional Focus
 
-## Connect
+Work centers on designing and supporting systems that are **practical, secure, and maintainable**:
+- **Infrastructure & Cloud** – appliances, servers, virtualization, and cloud platforms  
+- **Automation & Tooling** – scripting, workflow orchestration, and operational efficiency  
+- **Data & Reporting** – SQL-driven insights, reporting, and business-facing data solutions  
+- **Security & Networking** – layered controls, firewall policy, and enterprise networking  
+- **Monitoring, Operations & Backups** – visibility, alerting, fault isolation, and data protection  
+- **Documentation & Training** – materials that reduce friction and improve system understanding  
 
-Explore these materials, review projects
-Engagement is welcomed — looking forward to connecting and sharing insights.
+Design philosophy: build systems that are **clear, resilient, and understandable under pressure**.
+
+---
+## 📖 Ongoing Learning & Reference Material
+
+This repository also reflects continuous learning across infrastructure, security, and AI:
+
+- *Applied Agentic AI* – practical autonomous workflow design  
+- *Agentic Artificial Intelligence* – agent-based system principles  
+- *AI Engineering* – building reliable AI systems  
+- *CompTIA Security+* – cybersecurity foundations  
+- *The Kubernetes Book* – container orchestration  
+- *The Cuckoo’s Egg* – real-world security case study  
+- *The Pen-tester’s Blueprint* – practical security assessment techniques  
+
+---
+This README is intended as a **navigation dashboard**. Each folder represents applied work, learning, or reference material grounded in real operational experience.
