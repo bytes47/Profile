@@ -1,45 +1,33 @@
-# Jason McGinn 👋
+# Jason McGinn — Technical Consultant Profile
 
-# Designing Practical, Maintainable Technical Systems
+Welcome to my professional profile repository. This repository demonstrates my experience, skills, and approach as a technical consultant, emphasizing enterprise standards, workflow automation, and secure, reproducible processes.
 
-This repository is a professional hub representing my understanding of technology and my approach to system design. The materials here demonstrate how I structure, document, and manage technical tools to create reliable, user-focused systems in real-world environments.
-****
+## Repository Overview
 
----
-## 📂 Repository Overview
-### Resume & Profile
-- **Resume.md** – professional profile outlining experience, skills, certifications, and focus areas
-### Technology Consulting & Training
-- Guides, templates, and documentation reflecting **real-world implementation strategies**
-- Hands-on labs, exercises, and learning materials built from practical field experience
-### Scripts
-- Automation scripts, monitoring utilities, operational tooling, and workflow examples
+This repository organizes my professional documentation, scripts, and reference materials for public review:
 
----
-## 🧭 Professional Focus
+- **[Resume](./Jason%20McGinn%20-%20Resume%20-%20Feb%202026.md)** — Detailed professional experience, certifications, and skills.  
+- **[General Cover Letter](./Jason%20McGinn%20-%20General%20Cover%20Letter.md)** — Template for applications and introductions.  
+- **[Stories from Experiences](./Stories%20from%20Experiences.md)** — Narrative examples of real-world consulting and applied problem-solving.  
+- **[Technology Consulting and Training](./Technology%20Consulting%20and%20Training/)** — Guides, templates, exercises, and instructional materials from consulting engagements.  
+- **[Scripts](./Scripts/)** — Practical examples of workflow automation, DevOps orchestration, and technical solutions.  
 
-Work centers on designing and supporting systems that are **practical, secure, and maintainable**:
-- **Infrastructure & Cloud** – appliances, servers, virtualization, and cloud platforms  
-- **Automation & Tooling** – scripting, workflow orchestration, and operational efficiency  
-- **Data & Reporting** – SQL-driven insights, reporting, and business-facing data solutions  
-- **Security & Networking** – layered controls, firewall policy, and enterprise networking  
-- **Monitoring, Operations & Backups** – visibility, alerting, fault isolation, and data protection  
-- **Documentation & Training** – materials that reduce friction and improve system understanding  
+## Key Skills & Expertise
+- **Technical Orchestration:** Workflow automation, scripting (Bash, Python, PowerShell), Kubernetes/VM deployments.  
+- **Enterprise Standards & Security:** Secure configuration, reproducible deployments, documentation best practices.  
+- **Documentation & Process Management:** Obsidian-based workflow, structured Markdown documentation, version control via Git/GitHub.  
+- **Open Source & Personal Projects:** Demonstrations of applied technical skills in publicly shareable formats.  
 
-Design philosophy: build systems that are **clear, resilient, and understandable under pressure**.
+## How to Use
+1. Review **[Stories from Experiences](./Stories%20from%20Experiences.md)** for insight into applied consulting skills.  
+2. Browse **[Scripts](./Scripts/)** and **[Technology Consulting and Training](./Technology%20Consulting%20and%20Training/)** for examples and instructional content.  
+3. Access **[Resume](./Jason%20McGinn%20-%20Resume%20-%20Feb%202026.md)** and **[General Cover Letter](./Jason%20McGinn%20-%20General%20Cover%20Letter.md)** for professional overview.  
+4. All updates are tracked via Git, ensuring transparent version history and reproducibility.  
 
----
-## 📖 Ongoing Learning & Reference Material
+## Documentation
+This repository is also an example of a version controlled documentation process that can be followed by technical teams.  It produces version controlled documentation that's friendly to be used in many environments, shared if needed, using simple markup. 
 
-This repository also reflects continuous learning across infrastructure, security, and AI:
-
-- *Applied Agentic AI* – practical autonomous workflow design  
-- *Agentic Artificial Intelligence* – agent-based system principles  
-- *AI Engineering* – building reliable AI systems  
-- *CompTIA Security+* – cybersecurity foundations  
-- *The Kubernetes Book* – container orchestration  
-- *The Cuckoo’s Egg* – real-world security case study  
-- *The Pen-tester’s Blueprint* – practical security assessment techniques  
 
 ---
-This README is intended as a **navigation dashboard**. Each folder represents applied work, learning, or reference material grounded in real operational experience.
+
+*All content is public and safe for review by employers, recruiters, and technical teams.*
