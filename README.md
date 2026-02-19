@@ -27,7 +27,3 @@ This repository organizes my professional documentation, scripts, and reference 
 ## Documentation
 This repository is also an example of a version controlled documentation process that can be followed by technical teams.  It produces version controlled documentation that's friendly to be used in many environments, shared if needed, using simple markup. 
 
-
----
-
-*All content is public and safe for review by employers, recruiters, and technical teams.*
