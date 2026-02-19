@@ -7,9 +7,9 @@ This is a document within that profile.
 I'm building it on Github to start, keeping a document history with a development process.
 This is the repository it's kept in: https://github.com/bytes47/Profile
 The development process is 
-1. Using Obsidian to build .md files to represent the documentation.
+1. Using Obsidian to build .md files to represent the documentation, run backup on vault folder
 2. Creating the document to a production ready state
-3. Make a copy of the release version
+3. Make a copy of the release version, pend 'R' at end of version ie v1.008R
 4. Move copy to production folder
 5. Consider and commit changes to README file (or others) as needed
 6. Review production deployment state, backup production folder
