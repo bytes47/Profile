@@ -1,4 +1,4 @@
-# Jason McGinn — IT Professional Focused on Practical, User-Centered Systems v1.011
+# Jason McGinn — IT Professional Focused on practical, user-centered systems - resume
 ---
 ## Professional Overview
 Senior IT professional with broad experience across infrastructure, cloud platforms, enterprise systems, and automation, supporting organizations across multiple industries. I focus on orchestrating complex technologies into clear, structured, and user-focused workflows. While my expertise runs deep in select areas, my overall experience is intentionally wide-ranging — enabling me to assess environments holistically and design practical solutions that improve efficiency, reliability, and operational alignment.  
@@ -43,6 +43,7 @@ I translate operational requirements into maintainable, intuitive, and user-frie
 - Architected large-scale data frameworks, including Azure Data Lakes, development environment provisioning, and database alignment  
 - Coordinated with client technical teams to align infrastructure, data models, and deployment strategies  
 - Ensured infrastructure stability, scalability, and production readiness for custom enterprise solutions  
+<div style="break-after: page;"></div>
 
 **IT Consultant | 2017–2021**  
 - Delivered end-to-end IT services for a Managed Service Provider across multiple industries  

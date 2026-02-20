@@ -1,6 +1,6 @@
 Jason McGinn  
 Riverview, New Brunswick  
-[Date]
+February 18, 2026
 
 Dear Hiring Manager,
 

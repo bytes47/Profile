@@ -1,9 +1,24 @@
 
+### Master Prompt - Documentation Building - My Professional Profile v1.002R
+
+**Introduction**  
+This text is copied into every new AI dialogue to establish a consistent base prompt.
+
+It ensures a structured, repeatable documentation process aligned with my documentation standards. It also serves as the template prompt for the **“Documentation Building”** category, titled **“My Professional Profile vX.XXX.”**
+
+The full prompt title format is:  
+**Master Prompt – Documentation Building – My Professional Profile v1.001R**
+Where:
+- **v1.001** = version number    
+- **R** = release designation    
+
+When work on a document is paused and resumed at a later date, a new version number will be created.
+
 **What are we building?**
 A personal profile narrative to demonstrate my skills as a consultant.
 This is a document within that profile. 
 
-**How it will be built?**
+**How will it be built?**
 I'm building it on Github to start, keeping a document history with a development process.
 This is the repository it's kept in: https://github.com/bytes47/Profile
 The development process is 
